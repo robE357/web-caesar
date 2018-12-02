@@ -1,0 +1,78 @@
+
+body{
+
+    background-color: rgb(61, 63, 75);
+  }
+  
+  .wrapper{
+    width:420px;
+    margin: auto;
+  }
+  
+  h1{
+    text-align: center;
+    padding:30px 0px 0px 0px;
+    font-family: 'Courier New', Courier, monospace;
+    color:#FFF;
+    text-transform:uppercase;
+    text-shadow:#000 0px 1px 5px;
+    margin:0px;
+  }
+  
+  p{
+    font:13px Open Sans;
+    color:rgb(235, 241, 241);
+    text-shadow:#000 0px 1px 5px;
+    margin-bottom:30px;
+    text-align: center;
+  }
+  
+  .form{
+    width: 100%;
+  }
+
+   
+ #orig{
+    width:98%;
+    padding:15px 0px 15px 8px;
+    border-radius:5px;
+    background:rgba(46, 38, 38, 0.2);
+    border:1px solid rgba(0,0,0,1);
+    margin-bottom:10px;
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(205, 208, 241);
+    text-shadow:#000 0px 1px 5px;
+    text-align: center;
+  }
+  #rot{
+    width:25%;
+    padding:15px 0px 15px 8px;
+    border-radius:5px;
+    background:rgba(46, 38, 38, 0.2);
+    border:1px solid rgba(0,0,0,1);
+    margin-bottom:5px;
+    color:rgb(205, 208, 241);
+    text-shadow:#000 0px 1px 5px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  #enciphered{
+    width:98%;
+    padding:15px 0px 15px 8px;
+    border-radius:5px;
+    background:rgba(46, 38, 38, 0.2);
+    border:1px solid rgba(0,0,0,1);
+    margin-bottom:10px;
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(205, 208, 241);
+    text-shadow:#000 0px 1px 5px;
+    text-align: center;
+  }
+  .submit{
+    opacity:1;
+    cursor:pointer;
+    text-align: center;
+  }
+  #rotobj {
+      text-align: center;
+  }
