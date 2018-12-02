@@ -43,10 +43,8 @@ input_form = """
 
 # output form
 output_form = """
-    <form method="post"> 
         <p>Enciphered Text Below:</p>
-      <textarea id='enciphered' name="cipher" type="text" class="original_text" placeholder="ENCIPHERED TEXT">{}</textarea>
-      </form>
+      <textarea id='enciphered' type="text" class="original_text" placeholder="ENCIPHERED TEXT">{}</textarea>
   </div>
 """
 
